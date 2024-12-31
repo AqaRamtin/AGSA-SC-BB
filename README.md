@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Special thanks to [Ramtin](https://github.com/AqaRobert) for the original concept
+- Special thanks to [Ramtin](https://github.com/AqaRamtin) for the original concept
 - AG-SA community for inspiration
 - Bale messenger platform for the API
 
