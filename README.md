@@ -114,8 +114,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or need help, feel free to:
 - Open an issue
-- Contact via [Telegram](https://t.me/mixtrus)
-- Email: themixtrus@gmail.com
+- Contact via Telegram: [Saman](https://t.me/mixtrus) & [Ramtin](https://t.me/AghaRamtin)
+- Email: themixtrus@gmail.com, theramtin25@gmail.com
 
 ---
 
